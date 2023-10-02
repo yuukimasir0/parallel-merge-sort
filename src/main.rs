@@ -36,8 +36,8 @@ fn merge(a: &mut [i32], left: usize, mid: usize, right: usize) {
     let n_r = right - mid;
     let mut l_vec = vec![0; n_l];
     let mut r_vec = vec![0; n_r];
-    l_vec[..n_l].copy_from_slice(&a[left..(n_l + left)]);
-    r_vec[..n_r].copy_from_slice(&a[mid..(n_r + mid)]);
+    l_vec.copy_from_slice(&a[left..(n_l + left)]);
+    r_vec.copy_from_slice(&a[mid..(n_r + mid)]);
     l_vec.push(BANPEI);
     r_vec.push(BANPEI);
     let mut i = 0_usize;
