@@ -85,8 +85,5 @@ fn sort_bench(c: &mut Criterion) {
     }));
 }
 
-// ベンチマークグループを定義する
 criterion_group!(benches, sort_bench);
-
-// main関数を用意
 criterion_main!(benches);
