@@ -1,6 +1,6 @@
 use criterion::*;
 use rand::seq::SliceRandom;
-use std::{thread, time};
+use std::thread;
 
 const BANPEI: i32 = 1e18 as i32;
 const MAX_THREAD: usize = 5;
