@@ -1,0 +1,9 @@
+/home/untu/Rust/parallel/target/debug/deps/once_cell-241bb06069d00240.rmeta: /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/lib.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/imp_std.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/race.rs
+
+/home/untu/Rust/parallel/target/debug/deps/libonce_cell-241bb06069d00240.rlib: /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/lib.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/imp_std.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/race.rs
+
+/home/untu/Rust/parallel/target/debug/deps/once_cell-241bb06069d00240.d: /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/lib.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/imp_std.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/race.rs
+
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/lib.rs:
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/imp_std.rs:
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/once_cell-1.18.0/src/race.rs:

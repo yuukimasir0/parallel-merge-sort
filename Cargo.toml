@@ -7,3 +7,8 @@ edition = "2021"
 
 [dependencies]
 rand = "0"
+criterion = {version = "0", features = ["html_reports"]}
+
+[[bench]]
+name = "m_sort_b"
+harness = false

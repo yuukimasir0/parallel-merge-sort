@@ -1,0 +1,11 @@
+/home/untu/Rust/parallel/target/release/deps/linux_raw_sys-7639ef39274e5066.rmeta: /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/lib.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/elf.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/errno.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/general.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/ioctl.rs
+
+/home/untu/Rust/parallel/target/release/deps/liblinux_raw_sys-7639ef39274e5066.rlib: /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/lib.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/elf.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/errno.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/general.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/ioctl.rs
+
+/home/untu/Rust/parallel/target/release/deps/linux_raw_sys-7639ef39274e5066.d: /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/lib.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/elf.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/errno.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/general.rs /home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/ioctl.rs
+
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/lib.rs:
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/elf.rs:
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/errno.rs:
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/general.rs:
+/home/untu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.8/src/x86_64/ioctl.rs:
